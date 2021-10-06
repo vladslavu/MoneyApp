@@ -1,0 +1,59 @@
+
+
+.parent {
+        -fx-background-color: transparent;
+}
+
+.pane {
+        -fx-border-color: #ffffff;
+        -fx-border-width: 5px;
+        -fx-background-color: #ffb09c;
+}
+
+.sign-up-button {
+        -fx-background-color: transparent;
+        -fx-background-radius: 5px;
+        -fx-border-color: #cccccc;
+        -fx-border-radius: 5px;
+        -fx-border-width: 2px;
+        -fx-text-fill: whitesmoke;
+}
+
+.default-button {
+        -fx-background-color: #900000;
+        -fx-text-fill: whitesmoke;
+}
+
+.vbox-style {
+        -fx-background-color: #ffffff;
+}
+
+.moving-panel {
+        -fx-border-color: #900000;
+        -fx-border-width: 5px;
+        -fx-background-color: #bc544b;
+}
+
+.login-label {
+        -fx-background-color: #bc544b;
+}
+
+.message-label {
+        -fx-background-color: #bc544b;
+}
+
+.filling-box {
+        -fx-background-color: transparent;
+        -fx-border-color: #ffffff;
+        -fx-border-width: 0px 0px 1px 0px;
+}
+
+.filling {
+        -fx-background-color: transparent;
+}
+
+.pale-red-button {
+        -fx-background-color: #ffffff;
+        -fx-background-radius: 5px;
+        -fx-text-fill: whitesmoke;
+}
